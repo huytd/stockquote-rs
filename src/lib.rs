@@ -1,4 +1,4 @@
-mod model;
+pub mod model;
 use model::StockQuote;
 use std::{error::Error, fmt};
 
