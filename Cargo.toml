@@ -3,7 +3,7 @@ name = "stockquote"
 version = "0.1.0"
 authors = ["Huy Tran <hey@huy.rocks>"]
 edition = "2018"
-definitions = "Safe and easy to use stock quote library. All data coming from Yahoo Finance."
+description = "Safe and easy to use stock quote library. All data coming from Yahoo Finance."
 license-file = "LICENSE"
 respository = "https://github.com/huytd/stockquote-rs"
 
