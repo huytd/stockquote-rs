@@ -12,3 +12,8 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     Ok(())
 }
 ```
+
+## Upcoming
+
+- [ ] Price history data
+- [ ] Realtime price data
