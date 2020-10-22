@@ -5,7 +5,7 @@ authors = ["Huy Tran <hey@huy.rocks>"]
 edition = "2018"
 description = "Safe and easy to use stock quote library. All data coming from Yahoo Finance."
 license-file = "LICENSE"
-respository = "https://github.com/huytd/stockquote-rs"
+repository = "https://github.com/huytd/stockquote-rs"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
