@@ -1,6 +1,6 @@
 [package]
 name = "stockquote"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["Huy Tran <hey@huy.rocks>"]
 edition = "2018"
 description = "Safe and easy to use stock quote library. All data coming from Yahoo Finance."
